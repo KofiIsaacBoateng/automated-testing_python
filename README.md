@@ -5,5 +5,5 @@ This repository shall demonstrate the various testing techniques available in py
 ## UNIT TESTS
 Two modules here:
 
-        - rearrange_name.py         : `the module to be tested`
-        - rearrange_name_test.py    : `the test module`
+   - [x] rearrange_name.py - the module to be tested\
+   - [x] rearrange_name_test.py - the test module
